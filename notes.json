@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "content": "My project deadline is next Friday.",
+        "tags": [
+            "project",
+            "deadline"
+        ]
+    },
+    {
+        "id": 2,
+        "content": "Project deadline is next Friday.",
+        "tags": [
+            "project",
+            "deadline"
+        ]
+    },
+    {
+        "id": 3,
+        "content": "Viva is on Monday",
+        "tags": [
+            "viva",
+            "schedule",
+            "academic"
+        ]
+    }
+]
